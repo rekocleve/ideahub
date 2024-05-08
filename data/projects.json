@@ -389,4 +389,14 @@
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
     }
+    {
+        "name": "interactive-book",
+        "display": "Interactive Book",
+        "description": "An immersive and interactive book with animated ai content and sound effects",
+        "author": "rekcleve",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://github.com/rekocleve/interactive-book",
+        "tags": "html, css, javascript, gallery, animation, interactive, book"
+    }
 ]

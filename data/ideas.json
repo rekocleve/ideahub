@@ -263,4 +263,10 @@
         "level": "intermediate",
         "tags": "Api-GPS"
     }
+    {
+        "title": "Immersive, Interactive Book",
+        "description": "a webpage with ai animated graphic novel",
+        "level": "intermediate",
+        "tags": "Web-page, Immersive, Interactive, Book"
+    }
 ]
